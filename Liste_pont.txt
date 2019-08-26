@@ -1,0 +1,148 @@
+Saint-Germain-en-Laye -- Le Vésinet-Le Pecq
+Le Vésinet-Le Pecq -- Le Vésinet-Centre
+Le Vésinet-Centre -- Chatou-Croissy
+Chatou-Croissy -- Rueil-Malmaison
+Rueil-Malmaison -- Nanterre-Ville
+Nanterre-Ville -- Nanterre-Université
+Nanterre-Université -- Nanterre-Préfecture
+Nanterre-Préfecture -- La Défense
+Nanterre-Préfecture -- Houilles-Carrières-sur-Seine
+La Défense -- Charles-De-Gaulle-Etoile
+Charles-De-Gaulle-Etoile -- Auber
+Vincennes -- Fontenay-sous-Bois
+Fontenay-sous-Bois -- Nogent-sur-Marne
+Nogent-sur-Marne -- Joinville-le-Pont
+Joinville-le-Pont -- Saint-Maur-Créteil
+Saint-Maur-Créteil -- Le Parc de Saint-Maur
+Le Parc de Saint-Maur -- Champigny
+Champigny -- La Varenne-Chennevières
+La Varenne-Chennevières -- Sucy-Bonneuil
+Sucy-Bonneuil -- Boissy-Saint-Léger
+Val-de-Fontenay -- Neuilly-Plaisance
+Val-de-Fontenay -- Nogent-Le Perreux
+Neuilly-Plaisance -- Bry-sur-Marne
+Bry-sur-Marne -- Noisy-le-Grand-Mont-d'Est
+Noisy-le-Grand-Mont-d'Est -- Noisy-Champs
+Noisy-Champs -- Noisiel
+Noisiel -- Lognes
+Lognes -- Torcy
+Torcy -- Bussy-Saint-Georges
+Bussy-Saint-Georges -- Val-d'Europe
+Val-d'Europe -- Marne-la-Vallée-Chessy
+Houilles-Carrières-sur-Seine -- Sartrouville
+Sartrouville -- Maisons-Laffitte
+Maisons-Laffitte -- Achères-Grand-Cormier
+Maisons-Laffitte -- Achères-Ville
+Achères-Grand-Cormier -- Poissy
+Achères-Ville -- Conflans-Fin-d'Oise
+Conflans-Fin-d'Oise -- Neuville-Université
+Neuville-Université -- Cergy-Préfecture
+Cergy-Préfecture -- Cergy-Saint-Christophe
+Cergy-Saint-Christophe -- Cergy-le-Haut
+Remy-lès-Chevreuse -- Courcelle-sur-Yvette
+Courcelle-sur-Yvette -- Gif-sur-Yvette
+Gif-sur-Yvette -- La Hacquinière
+La Hacquinière -- Bures-sur-Yvette
+Bures-sur-Yvette -- Orsay-Ville
+Orsay-Ville -- Le Guichet
+Le Guichet -- Lozère
+Lozère -- Palaiseau-Villebon
+Palaiseau-Villebon -- Palaiseau
+Palaiseau -- Massy-Palaiseau
+Bourg-la-Reine -- Sceaux
+Sceaux -- Fontenay-aux-Roses
+Fontenay-aux-Roses -- Robinson
+Paris-Gare du Nord -- La Plaine-Stade de France
+Paris-Gare du Nord -- Stade de France Saint-Denis
+La Plaine-Stade de France -- La Courneuve-Aubervilliers
+La Courneuve-Aubervilliers -- Le Bourget
+Le Bourget -- Drancy
+Drancy -- Le Blanc-Mesnil
+Le Blanc-Mesnil -- Aulnay-sous-Bois
+Aulnay-sous-Bois -- Sevran-Beaudottes
+Aulnay-sous-Bois -- Sevran-Livry
+Sevran-Beaudottes -- Villepinte
+Villepinte -- Parc des Expositions
+Parc des Expositions -- Aéroport Charles-de-Gaulle 1
+Aéroport Charles-de-Gaulle 1 -- Aéroport Charles-de-Gaulle 2 TGV
+Sevran-Livry -- Vert-Galant
+Vert-Galant -- Villeparisis-Mitry-le-Neuf
+Villeparisis-Mitry-le-Neuf -- Mitry-Claye
+Pointoise -- Saint-Ouen-l'Aumône
+Saint-Ouen-l'Aumône -- Saint-Ouen-l'Aumône-Liesse
+Saint-Ouen-l'Aumône-Liesse -- Pierrelaye
+Pierrelaye -- Montigny-Beauchamp
+Montigny-Beauchamp -- Franconville-Le Plessis Bouchard
+Franconville-Le Plessis Bouchard -- Cernay
+Cernay -- Ermont-Eaubonne
+Ermont-Eaubonne -- Saint-Gratien
+Saint-Gratien -- Epinay-sur-Seine
+Epinay-sur-Seine -- Gennevilliers
+Gennevilliers -- Les Grésillons
+Les Grésillons -- Saint-Ouen
+Saint-Ouen -- Porte de Clichy
+Porte de Clichy -- Pereire-Levallois
+Pereire-Levallois -- Neuilly-Porte Maillot
+Neuilly-Porte Maillot -- Avenue Foch
+Avenue Foch -- Avenue Henri-Martin
+Avenue Henri-Martin -- Boulainvilliers
+Boulainvilliers -- Avenue du Président Kennedy
+Avenue du Président Kennedy -- Champs de Mars-Tour-Eiffel
+Saint-Quentin-en-Yvelines -- Saint-Cyr-l'Ecole
+Saint-Cyr-l'Ecole -- Versailles-Chantiers
+Viroflay Rive Gauche -- Porchefontaine
+Versailles-Château/Rive-Gauche -- Porchefontaine
+Savigny-sur-Orge -- Epinay-sur-Orge
+Dourdan-la-Forêt -- Dourdan
+Dourdan -- Sermaise
+Sermaise -- Saint-Chéron
+Saint-Chéron -- Breuillet-Village
+Breuillet-Village -- Breuillet-Bruyères-le-Châtel
+Breuillet-Bruyères-le-Châtel -- Egly
+Egly -- Arpajon
+Arpajon -- La Norville-Saint-Germain-lès-Arpajons
+La Norville-Saint-Germain-lès-Arpajons -- Brétigny
+Brétigny -- Saint-Michel-sur-Orge
+Brétigny -- Marolles-en-Hurepoix
+Saint-Michel-sur-Orge -- Sainte-Genièvre-des-Bois
+Sainte-Genièvre-des-Bois -- Epinay-sur-Orge
+Saint-Martin-d'Etampes -- Etampes
+Etampes -- Etrechy
+Etrechy -- Chamarande
+Chamarande -- Lardy
+Lardy -- Bouray
+Bouray -- Marolles-en-Hurepoix
+Creil -- Chantilly Gouvieux
+Chantilly Gouvieux -- Orry la Ville Coye
+Orry la Ville Coye -- La Borne Blanche
+La Borne Blanche -- Survilliers Fosses
+Survilliers Fosses -- Louvres
+Louvres -- Les Noues
+Les Noues -- Goussainville
+Goussainville -- Villiers le Bel Gonesse Arnouville
+Villiers le Bel Gonesse Arnouville -- Garges Sarcelles
+Garges Sarcelles -- Pierrefitte Stains
+Pierrefitte Stains -- Saint-Denis
+Saint-Denis -- Stade de France Saint-Denis
+Corbeil Essonnes -- Moulin Galant
+Moulin Galant -- Mennecy
+Mennecy -- Ballancourt
+Ballancourt -- La Ferté Alais
+La Ferté Alais -- Boutigny
+Boutigny -- Maisse
+Maisse -- Buno Gironville
+Buno Gironville -- Boigneville
+Boigneville -- Malesherbes
+Noisy-le-Sec -- Bondy
+Bondy -- Le Raincy-Villemomble Montfermeil
+Le Raincy-Villemomble Montfermeil -- Gagny
+Gagny -- Le Chénay-Gagny
+Le Chénay-Gagny -- Chelles-Gournay
+Nogent-Le Perreux -- Les Boullereaux Champigny
+Les Boullereaux Champigny -- Villiers-sur-Marne Le Plessis-Trévise
+Villiers-sur-Marne Le Plessis-Trévise -- Les Yvris Noisy-le-Grand
+Les Yvris Noisy-le-Grand -- Emerainville Pontault-Combault
+Emerainville Pontault-Combault -- Roissy-en-Brie
+Roissy-en-Brie -- Ozoir-la-Ferrière
+Ozoir-la-Ferrière -- Gretz-Arnainvilliers
+Gretz-Arnainvilliers -- Tournan

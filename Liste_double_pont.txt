@@ -1,0 +1,201 @@
+﻿Auber -- Haussmann -- Paris-Gare du Nord
+
+Haussmann -- Auber -- Châtelet-Les Halles
+
+Auber -- Châtelet-Les Halles -- Paris-Gare de Lyon
+
+Auber -- Châtelet-Les Halles -- Saint-Michel-Notre-Dame
+
+Auber -- Châtelet-Les Halles -- Paris-Gare du Nord
+
+Châtelet-Les Halles -- Paris-Gare de Lyon -- Nation
+
+Châtelet-Les Halles -- Paris-Gare de Lyon -- Maisons Alfort Alfortville
+
+Paris-Gare de Lyon -- Nation -- Vincennes
+
+Nation -- Vincennes -- Val-de-Fontenay
+
+Vincennes -- Val-de-Fontenay -- Rosny-sous-Bois
+
+Massy-Verrières -- Massy-Palaiseau -- Igny
+
+Massy-Verrières -- Massy-Palaiseau -- Longjumeau
+
+Massy-Palaiseau -- Massy-Verrières -- Les Baconnets
+
+Massy-Palaiseau -- Massy-Verrières -- Chemin d'Antony
+
+Massy-Verrières -- Les Baconnets -- Fontaine Michalon
+
+Les Baconnets -- Fontaine Michalon -- Antony
+
+Fontaine Michalon -- Antony -- La Croix de Berny
+
+Antony -- La Croix de Berny -- Parc des Seaux
+
+La Croix de Berny -- Parc des Seaux -- Bourg-la-Reine
+
+Parc des Seaux -- Bourg-la-Reine -- Bagneux
+
+Bourg-la-Reine -- Bagneux -- Arcueil-Cachan
+
+Bagneux -- Arcueil-Cachan -- Laplace
+
+Arcueil-Cachan -- Laplace -- Gentilly
+
+Laplace -- Gentilly -- Cité Universitaire
+
+Gentilly -- Cité Universitaire -- Denfert-Rochereau
+
+Cité Universitaire -- Denfert-Rochereau -- Port-Royal
+
+Denfert-Rochereau -- Port-Royal -- Luxembourg
+
+Port-Royal -- Luxembourg -- Saint-Michel-Notre-Dame
+
+Châtelet-Les Halles -- Saint-Michel-Notre-Dame -- Musée d'Orsay
+
+Châtelet-Les Halles -- Saint-Michel-Notre-Dame -- Paris-Austerlitz
+
+Haussmann -- Paris-Gare du Nord -- Pantin
+
+Pont de l'Alma -- Champs de Mars-Tour-Eiffel -- Javel
+
+Champs de Mars-Tour-Eiffel -- Pont de l'Alma -- Invalides
+
+Pont de l'Alma -- Invalides -- Musée d'Orsay
+
+Saint-Michel-Notre-Dame -- Paris-Austerlitz -- Bibliothèque François-Mitterand
+
+Paris-Austerlitz -- Bibliothèque François-Mitterand -- Ivry-sur-Seine
+
+Bibliothèque François-Mitterand -- Ivry-sur-Seine -- Vitry-sur-Seine
+
+Ivry-sur-Seine -- Vitry-sur-Seine -- Les Ardoines
+
+Vitry-sur-Seine -- Les Ardoines -- Choisy-le-Roy
+
+Les Ardoines -- Choisy-le-Roy -- Villeneuve-le-Roi
+
+Les Ardoines -- Choisy-le-Roy -- Les Saules
+
+Choisy-le-Roy -- Villeneuve-le-Roi -- Ablon
+
+Villeneuve-le-Roi -- Ablon -- Athis-Mons
+
+Ablon -- Athis-Mons -- Juvisy
+
+Athis-Mons -- Juvisy -- Savigny-sur-Orge
+
+Athis-Mons -- Juvisy -- Vigneux sur Seine
+
+Athis-Mons -- Juvisy -- Viry Châtillon
+
+Viroflay Rive Gauche -- Versailles-Chantiers -- Petit Jouy-Les Loges
+
+Versailles-Chantiers -- Viroflay Rive Gauche -- Chaville-Vélizy
+
+Viroflay Rive Gauche -- Chaville-Vélizy -- Meudon-Val Fleury
+
+Chaville-Vélizy -- Meudon-Val Fleury -- Issy
+
+Meudon-Val Fleury -- Issy -- Issy-Val de Seine
+
+Issy -- Issy-Val de Seine -- Boulevard Victor-Pont du Garigliano
+
+Issy-Val de Seine -- Boulevard Victor-Pont du Garigliano -- Javel
+
+Versailles-Chantiers -- Petit Jouy-Les Loges -- Jouy-en-Josas
+
+Petit Jouy-Les Loges -- Jouy-en-Josas -- Vauboyen
+
+Jouy-en-Josas -- Vauboyen -- Bièvres
+
+Vauboyen -- Bièvres -- Igny
+
+Massy-Verrières -- Chemin d'Antony -- Rungis-La Fraternelle
+
+Chemin d'Antony -- Rungis-La Fraternelle -- Pont-de-Rungis-Aéroport d'Orly
+
+Rungis-La Fraternelle -- Pont-de-Rungis-Aéroport d'Orly -- Orly-Ville
+Pont-de-Rungis-Aéroport d'Orly -- Orly-Ville -- Les Saules
+
+Massy-Palaiseau -- Longjumeau -- Chilly-Mazarin
+
+Longjumeau -- Chilly-Mazarin -- Gravigny-Balizy
+
+Chilly-Mazarin -- Gravigny-Balizy -- Petit Vaux
+
+Gravigny-Balizy -- Petit Vaux -- Savigny-sur-Orge
+
+Paris-Gare de Lyon -- Maisons Alfort Alfortville -- Le Vert des Maisons
+Maisons Alfort Alfortville -- Le Vert des Maisons -- Créteil-Pompadour
+
+Le Vert des Maisons -- Créteil-Pompadour -- Villeneuve Triage
+
+Créteil-Pompadour -- Villeneuve Triage -- Villeneuve Saint-Georges
+
+Villeneuve Triage -- Villeneuve Saint-Georges -- Montgeron Crosne
+
+Villeneuve Triage -- Villeneuve Saint-Georges -- Vigneux sur Seine
+
+Villeneuve Saint-Georges -- Montgeron Crosne -- Yerres
+
+Montgeron Crosne -- Yerres -- Brunoy
+
+Yerres -- Brunoy -- Boussy Saint-Antoine
+
+Brunoy -- Boussy Saint-Antoine -- Combs la Ville Quincy
+
+Boussy Saint-Antoine -- Combs la Ville Quincy -- Lieusaint Moissy
+
+Combs la Ville Quincy -- Lieusaint Moissy -- Savigny le Temple Nandy
+
+Lieusaint Moissy -- Savigny le Temple Nandy -- Cesson
+
+Savigny le Temple Nandy -- Cesson -- Le Mée
+
+Cesson -- Le Mée -- Melun
+
+Le Mée -- Melun -- Vosves
+
+Juvisy -- Viry Châtillon -- Ris Orangis
+
+Juvisy -- Viry Châtillon -- Grigny Centre
+
+Viry Châtillon -- Ris Orangis -- Grand Bourg
+
+Ris Orangis -- Grand Bourg -- Evry
+
+Grand Bourg -- Evry -- Corbeil Essonnes
+
+Evry -- Corbeil Essonnes -- Essonnes-Robinson
+
+Evry -- Corbeil Essonnes -- Le Bras de Fer
+
+Corbeil Essonnes -- Essonnes-Robinson -- Villabé
+
+Essonnes-Robinson -- Villabé -- Le Plessis Chenet
+
+Villabé -- Le Plessis Chenet -- Le Coudray Montceaux
+
+Le Plessis Chenet -- Le Coudray Montceaux -- Saint-Fargeau
+
+Le Coudray Montceaux -- Saint-Fargeau -- Ponthierry Pringy
+
+Saint-Fargeau -- Ponthierry Pringy -- Boississe le Roi
+
+Ponthierry Pringy -- Boississe le Roi -- Vosves
+
+Viry Châtillon -- Grigny Centre -- Orangis Bois de l'Epine
+
+Grigny Centre -- Orangis Bois de l'Epine -- Evry Courcouronnes
+
+Orangis Bois de l'Epine -- Evry Courcouronnes -- Le Bras de Fer
+
+Paris-Gare du Nord -- Pantin -- Noisy-le-Sec
+
+Pantin -- Noisy-le-Sec -- Rosny-Bois Perrier
+
+Noisy-le-Sec -- Rosny-Bois Perrier -- Rosny-sous-Bois

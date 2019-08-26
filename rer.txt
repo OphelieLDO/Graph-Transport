@@ -1,0 +1,247 @@
+000:Haussmann
+001:Saint-Germain-en-Laye
+002:Le Vésinet-Le Pecq
+003:Le Vésinet-Centre
+004:Chatou-Croissy
+005:Rueil-Malmaison
+006:Nanterre-Ville
+007:Nanterre-Université
+008:Nanterre-Préfecture
+009:La Défense
+010:Charles-De-Gaulle-Etoile
+011:Auber
+012:Châtelet-Les Halles
+013:Paris-Gare de Lyon
+014:Nation
+015:Vincennes
+016:Fontenay-sous-Bois
+017:Nogent-sur-Marne
+018:Joinville-le-Pont
+019:Saint-Maur-Créteil
+020:Le Parc de Saint-Maur
+021:Champigny
+022:La Varenne-Chennevières
+023:Sucy-Bonneuil
+024:Boissy-Saint-Léger
+025:Val-de-Fontenay
+026:Neuilly-Plaisance
+027:Bry-sur-Marne
+028:Noisy-le-Grand-Mont-d'Est
+029:Noisy-Champs
+030:Noisiel
+031:Lognes
+032:Torcy
+033:Bussy-Saint-Georges
+034:Val-d'Europe
+035:Marne-la-Vallée-Chessy
+036:Houilles-Carrières-sur-Seine
+037:Sartrouville
+038:Maisons-Laffitte
+039:Achères-Grand-Cormier
+040:Poissy
+041:Achères-Ville
+042:Conflans-Fin-d'Oise
+043:Neuville-Université
+044:Cergy-Préfecture
+045:Cergy-Saint-Christophe
+046:Cergy-le-Haut
+047:Remy-lès-Chevreuse
+048:Courcelle-sur-Yvette
+049:Gif-sur-Yvette
+050:La Hacquinière
+051:Bures-sur-Yvette
+052:Orsay-Ville
+053:Le Guichet
+054:Lozère
+055:Palaiseau-Villebon
+056:Palaiseau
+057:Massy-Palaiseau
+058:Massy-Verrières
+059:Les Baconnets
+060:Fontaine Michalon
+061:Antony
+062:La Croix de Berny
+063:Parc des Seaux
+064:Bourg-la-Reine
+065:Sceaux
+066:Fontenay-aux-Roses
+067:Robinson
+068:Bagneux
+069:Arcueil-Cachan
+070:Laplace
+071:Gentilly
+072:Cité Universitaire
+073:Denfert-Rochereau
+074:Port-Royal
+075:Luxembourg
+076:Saint-Michel-Notre-Dame
+077:Paris-Gare du Nord
+078:La Plaine-Stade de France
+079:La Courneuve-Aubervilliers
+080:Le Bourget
+081:Drancy
+082:Le Blanc-Mesnil
+083:Aulnay-sous-Bois
+084:Sevran-Beaudottes
+085:Villepinte
+086:Parc des Expositions
+087:Aéroport Charles-de-Gaulle 1
+088:Aéroport Charles-de-Gaulle 2 TGV
+089:Sevran-Livry
+090:Vert-Galant
+091:Villeparisis-Mitry-le-Neuf
+092:Mitry-Claye
+093:Pointoise
+094:Saint-Ouen-l'Aumône
+095:Saint-Ouen-l'Aumône-Liesse
+096:Pierrelaye
+097:Montigny-Beauchamp
+098:Franconville-Le Plessis Bouchard
+099:Cernay
+100:Ermont-Eaubonne
+101:Saint-Gratien
+102:Epinay-sur-Seine
+103:Gennevilliers
+104:Les Grésillons
+105:Saint-Ouen
+106:Porte de Clichy
+107:Pereire-Levallois
+108:Neuilly-Porte Maillot
+109:Avenue Foch
+110:Avenue Henri-Martin
+111:Boulainvilliers
+112:Avenue du Président Kennedy
+113:Champs de Mars-Tour-Eiffel
+114:Pont de l'Alma
+115:Invalides
+116:Musée d'Orsay
+117:Paris-Austerlitz
+118:Bibliothèque François-Mitterand
+119:Ivry-sur-Seine
+120:Vitry-sur-Seine
+121:Les Ardoines
+122:Choisy-le-Roy
+123:Villeneuve-le-Roi
+124:Ablon
+125:Athis-Mons
+126:Juvisy
+127:Saint-Quentin-en-Yvelines
+128:Saint-Cyr-l'Ecole
+129:Versailles-Chantiers
+130:Viroflay Rive Gauche
+131:Versailles-Château/Rive-Gauche
+132:Porchefontaine
+133:Chaville-Vélizy
+134:Meudon-Val Fleury
+135:Issy
+136:Issy-Val de Seine
+137:Boulevard Victor-Pont du Garigliano
+138:Javel
+139:Petit Jouy-Les Loges
+140:Jouy-en-Josas
+141:Vauboyen
+142:Bièvres
+143:Igny
+144:Chemin d'Antony
+145:Rungis-La Fraternelle
+146:Pont-de-Rungis-Aéroport d'Orly
+147:Orly-Ville
+148:Les Saules
+149:Longjumeau
+150:Chilly-Mazarin
+151:Gravigny-Balizy
+152:Petit Vaux
+153:Savigny-sur-Orge
+154:Dourdan-la-Forêt
+155:Dourdan
+156:Sermaise
+157:Saint-Chéron
+158:Breuillet-Village
+159:Breuillet-Bruyères-le-Châtel
+160:Egly
+161:Arpajon
+162:La Norville-Saint-Germain-lès-Arpajons
+163:Brétigny
+164:Saint-Michel-sur-Orge
+165:Sainte-Genièvre-des-Bois
+166:Epinay-sur-Orge
+167:Saint-Martin-d'Etampes
+168:Etampes
+169:Etrechy
+170:Chamarande
+171:Lardy
+172:Bouray
+173:Marolles-en-Hurepoix
+174:Creil
+175:Chantilly Gouvieux
+176:Orry la Ville Coye
+177:La Borne Blanche
+178:Survilliers Fosses
+179:Louvres
+180:Les Noues
+181:Goussainville
+182:Villiers le Bel Gonesse Arnouville
+183:Garges Sarcelles
+184:Pierrefitte Stains
+185:Saint-Denis
+186:Stade de France Saint-Denis
+187:Maisons Alfort Alfortville
+188:Le Vert des Maisons
+189:Créteil-Pompadour
+190:Villeneuve Triage
+191:Villeneuve Saint-Georges
+192:Montgeron Crosne
+193:Yerres
+194:Brunoy
+195:Boussy Saint-Antoine
+196:Combs la Ville Quincy
+197:Lieusaint Moissy
+198:Savigny le Temple Nandy
+199:Cesson
+200:Le Mée
+201:Melun
+202:Vigneux sur Seine
+203:Viry Châtillon
+204:Ris Orangis
+205:Grand Bourg
+206:Evry
+207:Corbeil Essonnes
+208:Essonnes-Robinson
+209:Villabé
+210:Le Plessis Chenet
+211:Le Coudray Montceaux
+212:Saint-Fargeau
+213:Ponthierry Pringy
+214:Boississe le Roi
+215:Vosves
+216:Grigny Centre
+217:Orangis Bois de l'Epine
+218:Evry Courcouronnes
+219:Le Bras de Fer
+220:Moulin Galant
+221:Mennecy
+222:Ballancourt
+223:La Ferté Alais
+224:Boutigny
+225:Maisse
+226:Buno Gironville
+227:Boigneville
+228:Malesherbes
+229:Pantin
+230:Noisy-le-Sec
+231:Bondy
+232:Le Raincy-Villemomble Montfermeil
+233:Gagny
+234:Le Chénay-Gagny
+235:Chelles-Gournay
+236:Rosny-Bois Perrier
+237:Rosny-sous-Bois
+238:Nogent-Le Perreux
+239:Les Boullereaux Champigny
+240:Villiers-sur-Marne Le Plessis-Trévise
+241:Les Yvris Noisy-le-Grand
+242:Emerainville Pontault-Combault
+243:Roissy-en-Brie
+244:Ozoir-la-Ferrière
+245:Gretz-Arnainvilliers
+246:Tournan
